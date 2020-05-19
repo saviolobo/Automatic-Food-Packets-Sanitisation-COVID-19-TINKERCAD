@@ -24,7 +24,7 @@ Step 1: 1.Food Packet Detected by PIR Sensor in the range(highlighted by green a
 ![](images/Picture1.png)
 
 Step 2:Message is printed on Serial Monitor that Food Packet is Detected.
-![](images/Picture3.png)
+![](images/Picture3.PNG)
 
 Step 3: The Food Packet here is out of range detected by PIR Sensor (highlighted by red area here). The Led does not glow and both the motors do not move depicted by 0 rpm.
 ![](images/Picture2.png)
