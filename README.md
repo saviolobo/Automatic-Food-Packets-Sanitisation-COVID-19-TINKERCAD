@@ -15,21 +15,24 @@ The Government is distributing food to these Migrants and Daily Wage workers. Th
 ![](images/circuitdesign.png)
 
 # Components
-1. Arduino Uno (X1)
-2. PIR Sensor (X1)
-3. Hobby GearMotor (X2)
-4. Breadboard Mini(X1)
-5. Led (X1)
-6. Resistor 1k ohm (X1)
-7. Jumper Wires
+![](images/Picture4.png)
+
 
 # Implementation
 Simulation done using Tinker Cad software:
-Step 1: 1.Food Packet Detected by PIR Sensor in the range(highlighted by green area) and the led glows red indicating the detection. The motors are activated automatically to sanitize the food packets.
+Step 1: 1.Food Packet Detected by PIR Sensor in the range(highlighted by green area) and the led glows red indicating the detection. The motors are activated automatically depicted by 51 rpm to sanitize the food packets.
 ![](images/Picture1.png)
 
-Step 2: The Food Packet here is out of range detected by PIR Sensor (highlighted by red area here). The Led does not glow and both the motors do not move depicted by 0 rpm.
+Step 2:Message is printed on Serial Monitor that Food Packet is Detected.
+![](images/Picture3.png)
+
+Step 3: The Food Packet here is out of range detected by PIR Sensor (highlighted by red area here). The Led does not glow and both the motors do not move depicted by 0 rpm.
 ![](images/Picture2.png)
 
+Step 4:In this way the Food Packets can be Sanitized before giving it to the People in a Contact Free manner.
 
+# Resources
+The Code and Circuit design can be found in this repository
 
+# Tools Used 
+https://www.tinkercad.com/
