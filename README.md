@@ -1,5 +1,5 @@
 # Automatic-Food-Packets-Sanitisation-before-Distribution-to-People-during-COVID-19-TINKERCAD
-The Government is distributing food to these Migrants and Daily Wage workers. There is a need to maintain hygiene before distributing food packets to these Migrants and Daily Wage workers and also make these process automatic and involve as less people as possible.Thus our Project provides the automatic sanitization of food packets before distribution to the Migrants and Daily Wage workers.
+The Government is distributing food to the Migrants and Daily Wage workers. There is a need to maintain hygiene before distributing food packets to these Migrants and Daily Wage workers and also make these process automatic and involve as less people as possible.Thus our Project provides the automatic sanitization of food packets before distribution to the Migrants and Daily Wage workers.
 
 # Introduction
 Our World has been recently hit with a pandemic COVID-19 virus crisis. This pandemic has devastated many of our lives. The main way to prevent this pandemic is through decreased social interaction and maintaining hygienic conditions as this virus spreads through contact of humans with surfaces or in turn in contact with other humans.
