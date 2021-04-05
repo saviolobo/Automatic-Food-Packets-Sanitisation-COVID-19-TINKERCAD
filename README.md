@@ -29,7 +29,7 @@ Step 3: The Food Packet here is out of range detected by PIR Sensor (highlighted
 Step 4:In this way the Food Packets can be Sanitized before giving it to the People in a Contact Free manner.
 
 # Resources
-The Code and Circuit design can be found in this repository
+The Code and Circuit design can be found in this repository.
 
 # Tools Used 
 https://www.tinkercad.com/
